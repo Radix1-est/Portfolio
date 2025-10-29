@@ -1,4 +1,4 @@
-/* ...existing code... */
+
 /* Minimalist aesthetic styles with light + dark theme variables */
 
 :root{
@@ -112,4 +112,4 @@ input:focus, textarea:focus{box-shadow:0 6px 18px rgba(124,92,255,0.08); border-
 @media (prefers-reduced-motion:reduce){
   *{transition:none!important}
 }
-/* ...existing code... */
+
